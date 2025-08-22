@@ -1,12 +1,12 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'The Chambana Report'
+description: 'The Chambana Report is a newspaper that covers stories from Urbana to Champaign.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 url: "https://www.chambanareport.org"
 disqus: ''
-email: 'wowthemesnet@gmail.com'
+email: 'jfhogg2@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -20,21 +20,29 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    jon:
+      name:           Jon 
+      site:           https://github.com/KingKoolKat
+      avatar:         /assets/images/avatar1.jpeg
+      bio:            "Ni Hao everyone, I am Jon, editor in chief of the Chambana Report!"
+      email:          jfhogg2@illinois.edu
+             
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
+    david:
+      name:           David 
+      site:           https://github.com/KingKoolKat
       avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Hello I am David Hipp. When I'm not busy practicing on my pan flute I serve as the creative director here."
+      email:          dhipp2@illinois.edu
+    
+    ryan:
+      name:           Ryan
+      site:           https://github.com/KingKoolKat
+      avatar:         /assets/images/avatar3.jpg
+      bio:            "Ryan is a doctor of journalism who currently attends several different universities under several different seasonal-themed last names. His hobbies include listening to spotify, clash royale, and writing his biweekly advice column. His list of role models includes Puss in Boots and Clairo, among others. He is a columnist"
+      email:          dhipp2@illinois.edu      
+    
+             
  
 # Defaults
 defaults:
@@ -44,8 +52,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: jon
+      avatar: /assets/images/avatar1.jpeg
       
   # all pages
   - scope:
