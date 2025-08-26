@@ -7,7 +7,6 @@ baseurl: ''
 url: "https://www.chambanareport.org"
 disqus: ''
 email: 'jfhogg2@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
 permalink: /:title/
@@ -24,22 +23,22 @@ authors:
       name:           Jon 
       site:           https://github.com/KingKoolKat
       avatar:         /assets/images/avatar1.jpeg
-      bio:            "Ni Hao everyone, I am Jon, editor in chief of the Chambana Report!"
+      bio:            "Jon is the editor in chief of the Chambana Report. He enjoys playing a game called Guess My Ethnicity but gets frustrated when it goes on for too long and the person playing starts naming obscure European countries. He has a seasonal interest in snails and dreams to name one Snail Gilgeous Alexander"
       email:          jfhogg2@illinois.edu
              
 
     david:
       name:           David 
-      site:           https://github.com/KingKoolKat
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Hello I am David Hipp. When I'm not busy practicing on my pan flute I serve as the creative director here."
+      site:           https://www.linkedin.com/in/david-hipp-1a0ab8273/ 
+      avatar:         /assets/images/david pfp.jpeg
+      bio:            "David is our creative director and spearheads a good deal of our investigative work. When he's not watching Ryan play Overwatch on his PS5, he can be found intently reading the words on other people's graphic tees. He has never watched the Piece by Piece Lego Movie but really wants to."
       email:          dhipp2@illinois.edu
     
     ryan:
       name:           Ryan
-      site:           https://github.com/KingKoolKat
-      avatar:         /assets/images/avatar3.jpg
-      bio:            "Ryan is a doctor of journalism who currently attends several different universities under several different seasonal-themed last names. His hobbies include listening to spotify, clash royale, and writing his biweekly advice column. His list of role models includes Puss in Boots and Clairo, among others. He is a columnist"
+      site:           https://google.com
+      avatar:         /assets/images/square ryan.jpeg
+      bio:            "Ryan is a columnist and a doctor of journalism who currently attends several different universities under several different seasonal-themed last names. His hobbies include listening to spotify, clash royale, and writing his biweekly advice column. His list of role models includes Puss in Boots and Clairo, among others."
       email:          dhipp2@illinois.edu      
     
              
