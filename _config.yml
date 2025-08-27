@@ -20,7 +20,7 @@ plugins:
   
 authors:
     jon:
-      name:           Jon 
+      name:           jon 
       site:           https://github.com/KingKoolKat
       avatar:         /assets/images/avatar1.jpeg
       bio:            "Jon is the editor in chief and technical director of the Chambana Report. He only knows one magic trick (and it is a relatively basic one) but he used to know 2 or 3 other tricks. He has a seasonal interest in snails and dreams to name the shiftiest one \"Snail Gilgeous Alexander\"."
@@ -28,14 +28,14 @@ authors:
              
 
     david:
-      name:           David 
+      name:           david 
       site:           https://www.goodreads.com/user/show/176166177-david-hipp 
       avatar:         /assets/images/david pfp.jpeg
       bio:            "David is the creative director and an investigative journalist for the newspaper. He enjoys relaxing in nature, listening to music, and hanging out with friends. He wouldn't describe himself as eclectic but hopes that other people might describe him as such."
       email:          dhipp2@illinois.edu
     
     ryan:
-      name:           Ryan
+      name:           ryan
       site:           https://google.com
       avatar:         /assets/images/square ryan.jpeg
       bio:            "Ryan is a columnist and a doctor of journalism who currently attends several different universities under several different seasonal-themed last names. His hobbies include listening to spotify, clash royale, and writing his biweekly advice column. His list of role models includes Puss in Boots and Clairo, among others."

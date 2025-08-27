@@ -65,10 +65,10 @@ layout: default
 		<div class="col-md-12 col-lg-8">
             
             <!-- Article -->
-			<article class="article-post">                
-			{{ content }}                
-			</article>
-			
+			<article class="article-post {% if page.dropcap == false %} no-dropcap {% endif %}">
+				{{ content }}
+			  </article>
+			  
 			<!-- Tags -->
 			<div class="mb-4">
 				<span class="taglist">
