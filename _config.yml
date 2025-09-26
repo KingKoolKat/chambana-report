@@ -49,7 +49,7 @@ authors:
     tony:
       name:           Tony
       site:           https://www.strongtowns.org
-      avatar:         /assets/images/tony.jpeg
+      avatar:         /assets/images/tonynew.png
       bio:            "Tony is a writer, a student of the streets and bicycle philosopher. A true modern renaissance man, he silently sits in coffee shops for hours at a time while purchasing nothing and holds a municipal internship in a windowless closet."
       email:          anthonymcrispin@gmail.com
     thomas:
@@ -58,6 +58,12 @@ authors:
       avatar:         /assets/images/thomas.jpeg
       bio:            "Thomas Dickey is an environmentalist, wildlife educator, and television personality. He graduated from the Medal School of Journalism in 2023. He aspires to one day live in or near a zoo."
       email:          jfhogg2@illinois.edu
+    owen:
+      name:           Owen Valentine
+      site:           https://open.spotify.com/artist/2OR6qp88OBhFfldNiovnoz?si=NszAeUgOT4W4pfvxC-Nv8A
+      avatar:         /assets/images/owen.jpeg
+      bio:            "Owen Valentine is a genre-bending musical genius who occasionally lends his pen to the Chambana Report. He was once belittled by the employees at a Taco Bell drive thru for ordering cheese quesadillas. He has a very shallow Overwatch hero pool."
+      email:          owenecurran@gmail.com
 
 
     

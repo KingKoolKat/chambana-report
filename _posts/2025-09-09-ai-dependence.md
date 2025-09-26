@@ -4,7 +4,7 @@ title:  "Academic AI Anarchy"
 author: tony
 categories: [ Issue2, opinion ]
 image: assets/images/tony chart.png
-tags: [sticky]
+tags: []
 ---
 
 Generative Artificial Intelligence (AI) companies have built their brands as tools of productivity, but their success in the marketplace relies on them becoming addictions.

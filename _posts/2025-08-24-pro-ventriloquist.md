@@ -17,3 +17,6 @@ At the end of the day, a ventriloquist is a master of their craft—an artist so
 
 ---
 
+[CLICK TO READ THE OTHER PERSEPCTIVE OF THIS DEBATE](https://chambanareport.org/anti-ventriloquist/)
+
+--- 

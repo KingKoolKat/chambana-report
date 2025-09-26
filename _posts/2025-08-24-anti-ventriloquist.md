@@ -17,3 +17,6 @@ First of all, we all know that talking comes out of your mouth. So how does it c
 
 ---
 
+[READ THE OTHER SIDE](https://chambanareport.org/pro-ventriloquist/)
+
+---
