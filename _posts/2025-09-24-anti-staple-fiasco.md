@@ -21,19 +21,19 @@ Naturally, there was a heated argument about the staple when I finally woke up. 
 
 I’m going to counter some points that I think our Creative Director could make as to why he thinks the situation was dangerous. 
 
-**Argument:** The staple was very sharp
+**Argument:** The staple was very sharp.
 
 **Counter:** The staple was small to the point where the statistical chance of him stepping on it was very low.
 
-**Argument:** There were two stables
+**Argument:** There were two staples.
 
-**Counter:** I only saw one
+**Counter:** I only saw one.
 
-**Argument:** The staple could have pierced his foot
+**Argument:** The staple could have pierced his foot.
 
 **Counter:** David has incredibly tough callused feet. He often talks about being “racially ambiguous” which I have taken to mean he is part hobbit. 
 
-**Argument:** The rusty staple could’ve carried tetanus
+**Argument:** The rusty staple could’ve carried tetanus.
 
 **Counter:** I believe David lives day to day with tetanus.
 
