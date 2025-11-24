@@ -4,7 +4,7 @@ title:  "You, yes you, should be playing as the ugly Overwatch characters"
 author: jon
 categories: [ Issue4, opinion ]
 image: assets/images/overwatch_heros.webp
-tags: [sticky]
+tags: []
 ---
 
 Overwatch is a competitive hero-shooter that prides itself on its inclusion. The game has the motto that “anyone can be a hero” and fulfills that promise by having a roster that is both geographically and biologically diverse in every possible way. 
