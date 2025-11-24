@@ -10,4 +10,9 @@ dropcap: false
 
 ---
 
-<embed src="/assets/Mountain Pulp.pdf" width="100%" height="800px" type="application/pdf">
+<object data="/assets/Mountain Pulp.pdf" type="application/pdf" width="100%" height="800px">
+  <p>
+    This PDF cannot be displayed on your device.  
+    <a href="/assets/Mountain Pulp.pdf">📄 Tap here to open it.</a>
+  </p>
+</object>
