@@ -3,7 +3,7 @@ layout: post
 title:  "Why You Should Be Very Nice to Me, an Introspective"
 author: owen
 categories: [ Issue6, opinion ]
-image: assets/images/imjustababy.jpg
+image: assets/images/cuteowen.heic
 tags: [featured]
 ---
 
