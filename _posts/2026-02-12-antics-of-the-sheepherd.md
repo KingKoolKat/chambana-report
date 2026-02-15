@@ -3,7 +3,7 @@ layout: post
 title:  "Antics of the Sheepherd | A Short Story"
 author: eamon
 categories: [ Issue6, story ]
-image: assets/images/sheep.JPG
+image: assets/images/sheep.jpg
 tags: 
 dropcap: false
 
