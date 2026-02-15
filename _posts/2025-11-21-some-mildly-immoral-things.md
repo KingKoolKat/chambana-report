@@ -4,7 +4,7 @@ title:  "Some Mildly Immoral Things"
 author: tony
 categories: [ Issue5, review ]
 image: assets/images/aristole.webp
-tags: [featured, sticky]
+tags: [featured]
 ---
 
 The human condition in the year of our Lord 2025 is certainly an experience with many philosophical and ethical dilemmas, ranging from the large-scale economic impacts of collective decision making to the principled stances and opportunity costs our everyday actions bring us. More than just that, the globalization of information and increasingly polarized nature of human civilization has pulled all actors in society into needing to have an opinion on these hot-button issues, though few of us lack the expertise to make informed decisions in all that life and politics asks of us.
