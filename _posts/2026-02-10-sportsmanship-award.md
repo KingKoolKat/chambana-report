@@ -4,7 +4,7 @@ title:  "A deeply unsatisfying interview with Richie Dering"
 author: david
 categories: [ Issue6, interview ]
 image: assets/images/richie.heic
-tags: [sticky]
+tags: 
 ---
 
 Every year the Chambana Report awards one lucky reader or reporter the Chambana Report Sportsmanship Award. This highly prestigious award is given to an individual who displays both ethical behavior and fair play in their day-to-day life. This year, our paper has elected to give this award to Richie Dering, who after a few days of dodging my calls was able to meet me for a brief and deeply unsatisfying interview. 
