@@ -4,7 +4,7 @@ title:  "3 Good Ways to Make Pasta"
 author: jon
 categories: [ Issue7, food ]
 image: assets/images/pastatitle.jpeg
-tags: [sticky]
+tags: 
 dropcap: false
 ---
 

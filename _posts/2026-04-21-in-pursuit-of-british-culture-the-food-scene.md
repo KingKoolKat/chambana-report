@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "In Pursuit of British Culture: The Food Scene"
+author: lillian
+categories: [ Issue8, food ]
+dropcap: true
+image: assets/images/british food.jpg
+tags: [featured]
+---
+
+England is not known for its cuisine, at least not in a positive light. Prior to leaving for my semester abroad, I was told to expect under-seasoned, bland meals. Nonetheless, I was determined to make the most of my experience. In an effort to connect with the culture, I sought classic British food, meals my great-grandfather could have plausibly eaten in a small English town a century before me.
+
+The first British delicacy I sampled was the humble meat pie. Those who know me may question this choice. Something about me has prompted several people to ask me if I'm vegan, and while I'm not, I unfortunately could not embrace a true meat pie. Something about a pound of minced meat baked in a short-crust does not appeal to me. I instead opted for a mushroom bourguignon pie. This was absolutely delightful. A cute little pie, a perfect serving for a hungry traveler such as myself. A tender yet sturdy crust and flavorful mushroom filling. As I enjoyed my meal in a quaint, countryside pub, I felt it could not get more British than this. Unfortunately, the sides left much to be desired. Alongside the pie, I was served gravy, chips, and steamed carrots and cabbage. I have come to find that the British love gravy. The gravy was watery, the chips (aka potato wedges) were nothing to write home about, and the veggies were a disaster. I had seen "served with cabbage and carrots" on the menu and expected them to come a little dressed up. How foolish of me. These veggies were steamed or perhaps boiled, thus leached of what little flavor they had. To worsen matters, these were plain vegetables, no seasoning whatsoever. I found myself desperately dumping salt and pepper packets onto my plate in an effort to salvage this portion of my meal, to little avail. This was the perfect introduction to British cuisine: a hearty and rich entree paired with the bland.
+
+<p align="center">
+  <img src="/assets/images/Mushroom-bourguinon.jpg" alt="Mushroom pie" width="700"/>
+</p>
+
+My next venture was perhaps the most famous of British meals: fish and chips. As I journeyed to Whitby, a coastal town that bears an alarming resemblance in character to New Buffalo, Michigan, all I could think about was getting my hands on this seaside delicacy. Determined to experience the best, I had done extensive research on the best fish and chips spot in Whitby and landed on Hadley's, a charming restaurant in the center of town with rather apt nautical decor. I could choose cod or haddock at regular or large, and went with a standard cod. My plate was practically overflowing with golden and fried fish and potatoes, and I squeezed lemon over my fish, drizzled vinegar over my chips, and dug in. One might expect this dish to be quite heavy, but I was pleasantly surprised by the lightness of it all. The fish had a delicate, subtle taste, and the batter was a lovely complement, crispy and not at all weighed down by oil. I was not as pleased with my chips. British potatoes taste slightly different from American potatoes, not in a way I enjoy, and I can't expand further on that. This resulted in a very average chip: not particularly crispy or flavorful. I have to give the British some credit here, because vinegar elevates these potatoes from average to good. As an additional treat, my friend permitted me to sample some of her mushy peas. While aptly named, this term is extremely unappealing, which is why I did not order them myself. These tasted exactly like Inner Peas, the puffed pea snack from Trader Joe's. Opinions about this taste are based on whether you like peas or not. I have rather neutral feelings about the vegetable, so I found this dish perfectly average.
+
+<p align="center">
+  <img src="/assets/images/whitby fish.jpg" alt="Whitby Fish and Chips" width="700"/>
+</p>
+
+My most recent foray into British cuisine was with the sausage roll, specifically a Greggs sausage roll. For those unfamiliar, Greggs is a popular UK bakery chain, known for its affordable prices and of course, its sausage rolls. Though I had arrived on UK soil knowing I had to try Greggs, I waited about 2 months before visiting the establishment, mostly because I didn't feel like going. But when I reached the halfway point in my semester, I figured enough was enough.
+
+My Greggs of choice was crowded with people at tables, there was a line ahead of me, and spilled chocolate milk in front of the register, so I knew I was in for a treat. Most of the prepared sandwiches and pastries were sold out, but I only had eyes for one item: the sausage roll (and a Cherry Coke). Fortunately for me, the case was filled with them and little else. Up front, the store smelled lightly savory and buttery: sausage roll scented. The cashier was polite and direct, our interaction lasted maybe 30 seconds. I was thrilled to try the item that I had heard so much about. First impressions: unassuming on sight, but warm and smelling promising. First bite: flake city. Buttery does not feel quite accurate to describe the crust, but it is certainly flaky. This is not a delicate pastry. It's a greasy and hardy container for the sausage. Second bite: I miss American sausage. Don't get me wrong, this sausage is good. But it is different. It has a soft, melt-in-the-mouth quality that I'm not used to. It tastes similar to breakfast sausage but without the firm texture and black pepper. While the sausage roll is flavorful on its own, this distinction did not go unnoticed. That all being said, the sausage roll is delightful. It's filling and tasty and a perfect treat on a cloudy British afternoon.
+
+<p align="center">
+  <img src="/assets/images/greggs.jpg" alt="Sausage Roll" width="700"/>
+</p>
+
+I know I have only scratched the surface of British food. There is much more waiting for me, like the pasty barm, a meat pasty served in between two rolls. Or the chip butty, fried potatoes served in between two rolls. But having experienced three of the most widely known British meals, I feel I have enough insight to form a proper opinion. It is true that England is averse to seasoning; even processed food lacks the salt I crave so desperately. British food is hearty, filling, to the point. It suits the gray skies, blustery wind, and bitter rain. While a pie and mash may not be the most elegant of meals, it's comforting after a rough day out in English elements. Consider this my formal review of British cuisine: don't knock it till you try it.

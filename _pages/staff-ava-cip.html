@@ -1,0 +1,26 @@
+---
+title: "Ava Cip"
+layout: default
+permalink: "/staff-ava-cip.html"
+---
+<div class="container">
+<div class="row justify-content-center">
+    <div class="col-md-8">        
+        <div class="row align-items-center mb-5">
+            <div class="col-md-9">
+                <h2 class="font-weight-bold">{{page.title}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ site.authors.ava.site }}">Follow</a></span></h2>
+                <p><a href="{{ site.authors.ava.site }}">{{ site.authors.ava.site }}</a></p>
+                <p class="excerpt">{{ site.authors.ava.bio }}</p>
+            </div>
+            <div class="col-md-3 text-right">
+                <img alt="{{ site.authors.ava.name }}" src="{{ site.authors.ava.avatar | relative_url }}" class="rounded-circle staff-avatar staff-avatar-lg" height="100" width="100">
+            </div>
+        </div>
+        <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
+            {% assign posts = site.posts | where:"author","ava" %}
+            {% for post in posts %}
+            {% include main-loop-card.html %}
+            {% endfor %}
+    </div>
+</div>
+</div>

@@ -82,11 +82,32 @@ authors:
       avatar:         /assets/images/will.jpeg
       bio:            "Will Kelly is a cross cultural academic who typically intermingles in professional fields of writing however enjoys dabbling in his creative senses. He once had an mma fight which he lost, but he’s gonna do more in the future, he thinks."
       email:          willkelly2023@illinois.edu
+    ava:
+      name:           Ava Cip
+      site:           https://venmo.com/u/avacipriani
+      avatar:         /assets/images/avacip.jpg
+      bio:            "Meet Ava Cip. This ferocious feline is a far cry from a true spy, but don’t be mistaken, she does have quite an eye - a spry eye to scope out new news of the Illini! Follow this pretty kitty as she defends and reports the who, what, where, and how of Urbana-Champaign."
+    lucy:
+      name:           Lucy
+      site:           https://www.linkedin.com/in/lucy-randolph-b19b652b2/
+      avatar:         /assets/images/lucy.JPG
+      bio:            "Lucy is really excited to be on the team. She thanks her friends and family for their support."
+    lillian:
+      name:           Lillian
+      site:           https://www.linkedin.com/in/lillian-weinstock/
+      avatar:         /assets/images/lillian.jpeg
+      bio:            "Lillian is an aspiring urban planner with dreams of becoming a self-proclaimed creative. They are fond of walking, enjoy consuming media in most forms (typically music or books but they dabble in movies and more), like to bake, and are interested in travel."
+    mk:
+      name:           MK Morrison
+      site:           https://www.linkedin.com/in/m-k-morrison-3b92572b6/
+      avatar:         /assets/images/mk.png
+      bio:            "MK is graduating and writes for fun. Their name does not stand for anything but their middle name is Everett. On the weekends they often find themself on Lucy’s couch."
+    kayla:
+      name:           Kayla
+      site:           https://www.linkedin.com/in/kayla-kellam-bb78682b1/
+      avatar:         /assets/images/kayla.heic
+      bio:            "Hi! I’m Kayla. I live in Burlington, VT and study Secondary Ed at UVM. Here is a picture of me with the season’s first creemee!"
 
-
-    
-             
- 
 # Defaults
 defaults:
 
